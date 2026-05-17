@@ -28,7 +28,9 @@ Builder · Chief Architect · Tech Lead | 擅长 0→1
 
 ### Living Proof
 
-🐝 **[SwarmAI](https://github.com/xg-gh-25/SwarmAI)** — Human directs. AI delivers.
+🐝 **[SwarmAI](https://github.com/xg-gh-25/SwarmAI)** — One builder + AI operating at team scale.  
+🎨 **[Content Gallery](https://xg-gh-25.github.io/swarm-content/)** — AI-generated media: posters, narratives, videos. All from one prompt.  
+💬 **[Discuss](https://github.com/xg-gh-25/swarm-content/discussions)** — Thoughts on AI agents, context engineering, and content as black box.
 
 ---
 
