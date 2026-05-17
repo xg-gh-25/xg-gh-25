@@ -2,14 +2,14 @@
 
 **Hey, I'm XG 👋**
 
-AWS 14年 | Builder · Chief Architect · Tech Lead | 擅长 0→1  
+Builder · Chief Architect · Tech Lead | 擅长 0→1  
 探索 AI 的边界。
 
 ---
 
 ### What I Believe
 
-**AI 的根本瓶颈不是智力，是基础设施。**  
+**AI 的根本瓶颈不是智力，是工程。**  
 用了一百次还和第一次一样的 AI，不是助手，是陌生人。
 
 **Agent 当人来培养，不当工具来配置。**  
@@ -28,7 +28,7 @@ AWS 14年 | Builder · Chief Architect · Tech Lead | 擅长 0→1
 
 ### Living Proof
 
-🐝 **[SwarmAI](https://github.com/xg-gh-25/SwarmAI)** — Your AI Team, 24/7
+🐝 **[SwarmAI](https://github.com/xg-gh-25/SwarmAI)** — Human directs. AI delivers.
 
 ---
 
@@ -38,4 +38,4 @@ AWS 14年 | Builder · Chief Architect · Tech Lead | 擅长 0→1
 
 ### Connect
 
-📍 Beijing · 🏢 AWS GCR · 📧 xiao_gang_wang@me.com
+📍 Beijing · 📧 xiao_gang_wang@me.com
